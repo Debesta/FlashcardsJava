@@ -1,2 +1,2 @@
-##Java Flashcards
-Netlify: [Netlify](https://fiszkijava.netlify.app/)
+# Java Flashcards
+Netlify: [Debesta](https://fiszkijava.netlify.app/)
